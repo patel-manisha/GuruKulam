@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/netinfo": "^4.2.2",
     "hoist-non-react-statics": "^3.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-calendars": "^1.212.0",
